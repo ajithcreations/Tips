@@ -1,0 +1,27 @@
+body {
+    background-image: url("a.jpg");
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    color: #666;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #777;
+    display: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
